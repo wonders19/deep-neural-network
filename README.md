@@ -1,4 +1,6 @@
 # deep-neural-network
+
+1.vanishing gradient:
 The main benefit of a very deep network is that it can represent very complex functions. 
 It can also learn features at many different levels of abstraction, from edges (at the lower layers) 
 to very complex features (at the deeper layers). 
